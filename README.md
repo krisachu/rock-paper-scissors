@@ -1,5 +1,5 @@
 
-![](src/images/rock-paper-scissors.png)
+![](/src/images/rock-paper-scissors.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
