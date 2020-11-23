@@ -1,6 +1,10 @@
+## Rock Paper Scissors game
 
 ![](/src/images/rock-paper-scissors.png)
 
+In this project I used JavaScript, React, HTML, CSS, Material UI and flexbox. I wanted the user interface to be minimalistic and with simple colors. Instead of using images of hand positions, I thought it would be cool to use real images of the weapons. I used Material UI to make the buttons look great and practised flexbox to make the layout responsive.
+
+When player chooses his/her weapon by pressing one of the three buttons, the player's weapon appears on the left. At the same time on the right side, a spin is started in which the weapons are rotated for a few seconds. Finally, a computer selection that is randomly selected appears on the right. After that the results are displayed on the screen.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
